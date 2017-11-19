@@ -6,6 +6,9 @@
 body {
     background-color: #777;
     width: 960px;
+    font-size: 18pt;
+    font-family: ariel;
+
 }
 
 
@@ -57,10 +60,9 @@ article {
 
 
 aside {
-    padding: 90px;
+    padding: 115px;
     float: right;
     width: 45%;
-    margin-bottom: 20px;
     margin-right: 30px;
     background: #ebebeb;
 
